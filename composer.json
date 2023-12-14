@@ -1,0 +1,16 @@
+{
+  "name": "imjordan/islandora_bagger",
+  "type": "drupal-module",
+  "description": "Drupal Module that allows user to create Bags with islandora_bagger.",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Mark Jordan",
+          "email": "mjordan@sfu.ca"
+      }
+  ],
+  "require": {
+      "php": "^7.2 || ^8.0",
+      "getjwtonlogin": "*"
+  }
+}
